@@ -1,2 +1,1 @@
-# README
-for intro page (github beta)
+Hey ya!
